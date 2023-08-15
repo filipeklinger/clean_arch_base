@@ -1,6 +1,8 @@
 # Clean Arch Base
 Estrutura base de pastas pensada em uma arquitetura com um design de software nos moldes do Clean Code
-Esta é uma simplificação da Onion Arch, descartando todas as partes que aumentavam a complexidade do projeto
+Esta é uma simplificação da Onion Arch, descartando todas as partes que aumentavam a complexidade do projeto.
+
+Essa organização foi pensada para `Typescript` mas pode ser reutilizada para outros tipos de linguagens interpretadas.
 
 ## Representação grafica da arquitetura
 
